@@ -1,0 +1,3 @@
+[submodule "musicbrainz_bot"]
+	path = musicbrainz_bot
+	url = ./musicbrainz_bot/
