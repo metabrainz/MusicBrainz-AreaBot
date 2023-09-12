@@ -1,4 +1,14 @@
+# Environment directories
 env/
 .idea/
 .vscode/
 __pycache__/
+
+# keep track of empty data/ directory
+data/*
+!data/.gitkeep
+
+# Extras from notebooks/
+apicache-py3/
+log.json
+throttle.ctrl
