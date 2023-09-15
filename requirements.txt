@@ -39,6 +39,7 @@ pluggy==1.2.0
 prompt-toolkit==3.0.39
 psutil==5.9.5
 psycopg==3.1.9
+psycopg2-binary==2.9.7
 ptyprocess==0.7.0
 pure-eval==0.2.2
 pycodestyle==2.11.0
